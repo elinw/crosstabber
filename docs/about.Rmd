@@ -1,0 +1,41 @@
+---
+title: "About"
+author: "Elin Waring"
+date: "Sunday, August 24, 2014"
+output: html_document
+---
+
+Cross tabulations (also known as contingency tables) are one of the basic tools sociologists use to understand the relationships between variables especially when the variables are non numerical ones such as gender, race, social class, religious affiliation. or highest degree earned. Although they appear simple, they are surprisingly hard for beginners to master. This application allows you to make cross tabs with up to three variables using a number of data sets.
+
+#### How to use
+
+Before you start, you need to think about what you want to know. If you are using this in a class make sure to follow any instructions on this you have been given.
+
+1. Pick the data set you wish to analyze. When you select a data set in the drop down you will see a brief description. 
+2. Pick the dependent variable you are interested in. The dependent variable is what you want to explain. For example you may want to understand what other variables could explain variations in income. 
+3. Pick the independent variable. The independent variable defines which groups you want to compare. For example, if you want to compare men and women you would pick gender as the independent variable. If you just want an overall distrbution you do not need an independent variable.
+4. Pick a control variable if desired. This will let you subset the data into smaller groups. For example you can have a table containing only people living in the northeastern United States.
+
+It is important to think carefully about your independent and dependent variables since the choice changes how the percentages are calculated. Plan your idea in advance. One trick is to try filling in the blanks in these sentences:
+
+*The response to the question about _____________ will depend on the response to the question about ____________. (The first will be the dependent variable.)
+
+*People in group _________ will be more likely than people in group ________ to _______.  (The variable that defines the groups will be the independent variable.)
+
+Sometimes you may just be looking at whether there is an association between two variables. In that case, you can set up the table either way (and may want to look at both versions.)
+
+
+#### What this application is not for
+
+This application will not carry out complex analyses and *by design* the data sets contain a limited selection of variables. Currently all of the data sets are single snap shots and will not allow the study of change over time. It is intended to help people, especially beginning sociology students, work with real data in a way that gives them choices but that is not frustrating. Thus it is for *educational* and *not research* purposes. 
+
+#### For instructors
+
+If you would like to use your own data or modify the data here, please read the information at Github.
+
+This application recreates a number of the analyses in course modules found at [lehmanida.org](http://lehmanida.org).  In general, these analyses are designed to help students learn about sociological ideas. For example, the analyses of disability data are motivated by the idea of examining disability as an dimension of social stratification and by the idea of moving from a concept such as "disability" to measurable variables in the design of a research project. Those modules along with many examples found at [teachingwithdata.org](includeMarkdown(path) and [SSDAN](http://ssdan.net/content/ida-project) can help you with using this in courses.
+
+#### Credits
+
+The idea of having an easy to use interface to real data sets using cross tabs has been around for a long time in sociology teaching. Most importantly, the great [WebCHIP](http://www.ssdan.net/frey/launcher.html) and its desktop version [StudentCHIP](http://www.zetadata.com/prod01.htm) and back to [James Davis's](https://en.wikipedia.org/wiki/James_A._Davis) original CHIPendale were an inspiration for this project.
+

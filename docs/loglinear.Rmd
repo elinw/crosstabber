@@ -1,0 +1,12 @@
+---
+title: "About Loglinear"
+author: "Elin Waring"
+date: "Sunday, August 24, 2014"
+output: html_document
+---
+
+Often researchers are interested in complicated analyses of the relationship between variables. They want to know if variables are related to each other and also if there are some combinations of attributes from different variables (such being both male and over 65 years old who have a hearing disability) that are particularly interesting. These are called interactions.
+
+This page shows a loglinear analysis of your selected cross tablulation. In this case we are just using it as an exploratory tool to see if there are any interactions that may be important in your table. 
+
+One thing to keep in mind is that although the data sets here are from a sample (the Public Use Micro Sample), the sample is extremely large. Therefore most simple formal tests are not useful.  Instead, it may make sense to see which coefficients seem to be unusually large and also whether the coefficients in the direct and saturated models differ greatly.

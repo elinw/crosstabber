@@ -1,0 +1,5 @@
+datasetname, title, dataDescription
+"disabilityxtabdf.rds", "Disability 2000", "<p>Disability Data from the Public Use Micro Sample (PUMS) 2000</p><P>All people under age 15 are excluded.</p><p>N=10,978,505</p><p>Source: U.S. Bureau of the Census, Data Ferret.</p>"
+"disability2012xtabdf.rds", "Disability 2012", "<p>Disability Data from the American Community Survey Microdata 5 Year Estimates 2008-2012 </p><p>All people under age 15 are excluded.</p><p>N = 7,395,310</p><p>Source: U.S. Bureau of the Census, Data Ferret.</p>"
+"immigrationxtab.rds", "Immigration","<p>Immigration Data from the American Community Survey Microdata 5 Year Estimates 2008-2012 </p><p>N = 15,318,124</p><p>Source: U.S. Bureau of the Census, Data Ferret.</p>"
+"physiciansxtabdf.rds", "Physicians","<p>Data about Physicians and Surgeons from the American Community Survey Microdata 5 Year Estimates 2008-2012 </p><p>N = 9698</p><p>Note that for household income, only values of $1 or greater are included. Also this is household income, not the income of individual physicians and surgeons.</p><p>Source: U.S. Bureau of the Census, Data Ferret.</p>"
